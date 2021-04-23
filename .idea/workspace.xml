@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="" />
+    <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Login.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +92,7 @@
       <workItem from="1616758458125" duration="763000" />
       <workItem from="1617018259649" duration="8000" />
       <workItem from="1617964778203" duration="2697000" />
-      <workItem from="1619167291108" duration="422000" />
+      <workItem from="1619167291108" duration="1189000" />
     </task>
     <servers />
   </component>

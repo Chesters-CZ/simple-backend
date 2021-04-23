@@ -10,7 +10,7 @@ import javax.ws.rs.core.Response;
 public class Login {
 
     @GET
-    public Response GetUserLogin(@QueryParam("user") String username, @QueryParam("pass") String password) {
+    public Response getUserLogin(@QueryParam("user") String username, @QueryParam("pass") String password) {
         for (int i = 0; i < LoginDatabase.userList.size(); i++) {
             if (LoginDatabase.userList.get(i).password.equals(password) && LoginDatabase.userList.get(i).username.equals(username))
                 return Response.ok(i).build();
@@ -19,7 +19,7 @@ public class Login {
     }
 
     @POST
-    public Response RegisterUser(@QueryParam("user") String username, @QueryParam("pass") String password) {
+    public Response registerUser(@QueryParam("user") String username, @QueryParam("pass") String password) {
         for (int i = 0; i < LoginDatabase.userList.size(); i++) {
             if (LoginDatabase.userList.get(i).username.equals(username))
                 return Response.status(409, "cannot have two users using the same username").build();
@@ -30,7 +30,7 @@ public class Login {
     }
 
     @DELETE
-    public Response RemoveUser(@QueryParam("user") String username, @QueryParam("pass") String password) {
+    public Response removeUser(@QueryParam("user") String username, @QueryParam("pass") String password) {
         for (int i = 0; i < LoginDatabase.userList.size(); i++) {
             if (LoginDatabase.userList.get(i).password.equals(password) && LoginDatabase.userList.get(i).username.equals(username)) {
 
