@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Leaderboard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Leaderboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Leaderboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Resources/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Resources/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Resources/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Leaderboard.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Resources/LoginDatabase.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Login.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -62,19 +71,25 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in generated-requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.All in generated-requests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,11 +111,29 @@
       <workItem from="1616758458125" duration="763000" />
       <workItem from="1617018259649" duration="8000" />
       <workItem from="1617964778203" duration="2697000" />
-      <workItem from="1619167291108" duration="3500000" />
+      <workItem from="1619167291108" duration="5966000" />
+      <workItem from="1619772788519" duration="3762000" />
     </task>
+    <task id="LOCAL-00001" summary="getSortedUsers">
+      <created>1619171065575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619171065575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="getSortedUsers" />
+    <option name="LAST_COMMIT_MESSAGE" value="getSortedUsers" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

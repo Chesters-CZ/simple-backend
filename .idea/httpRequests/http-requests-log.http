@@ -1,0 +1,16 @@
+GET http://localhost/leaderboard
+
+###
+
+POST http://localhost/zvjer
+
+###
+
+GET http://payment-method
+
+###
+
+GET http://localhost/listpipiku
+
+###
+
