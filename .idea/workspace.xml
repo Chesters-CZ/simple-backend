@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cbbc05c-6d81-45ce-bce1-945105c11a2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/mathProblems/MathProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/Resources/LoginDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/java/cz/educanet/simple/Resources/LoginDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/mathProblems/MathProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/java/cz/educanet/simple/mathProblems/MathProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
       <workItem from="1619167291108" duration="5966000" />
       <workItem from="1619772788519" duration="3762000" />
       <workItem from="1620374800705" duration="1227000" />
-      <workItem from="1620977920844" duration="1685000" />
+      <workItem from="1620977920844" duration="4133000" />
     </task>
     <task id="LOCAL-00001" summary="getSortedUsers">
       <created>1619171065575</created>
